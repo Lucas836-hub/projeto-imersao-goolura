@@ -1,9 +1,12 @@
-# *Projeto de imersao IA goolura*
+# <div align="center" >*Projeto de imersao IA goolura* </div>
 
 Desenvolvido durante a imersão IA de parceria do google + alura + FIAP,
 Este projeto basicamente é um utilitario para auxiliar no dia a dia podendo criar trechos de códigos, dicas para estilos , ideias , problemas matemáticos e afins
+Mesmo em modo terminal é extremamente fácil de usar, apelidado carinhosamente de golura é um projeto com muito potencial de expanção e futuramente terá uma interface gráfica,espero que apreciem e usem com sabedoria 
+
  ### *Sobre o projeto*
 Usando como fonte a IA gemini do google, este projeto foi desenvolvido em python e é de extrema simplicidade , sinceramente não tive muito tempo para investir nele.
+
 ## *Download*
      git clone https://github.com/Lucas836-hub/projeto-imersao-goolura/
 ## *Links para mais conhecimento*
